@@ -1,1 +1,1 @@
-# Predicting-whether-a-student-will-get-admission-
+Every year high school student and college students apply to various universities and programs.Each student has a unique set of test scores, grades, and rankings.Somehow, the admission commitees must decide which applicants to accept or reject from their program. In this case a binary classification algorithm can be used to accept or reject applicants.To grasp the concepts of classification, we'll try to predict whether an applicant will be admitted to a graduate program in a U.S. university.
